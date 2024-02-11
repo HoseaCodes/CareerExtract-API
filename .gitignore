@@ -8,3 +8,4 @@ __pycache__
 # program generated files
 *.csv
 venv
+.env
